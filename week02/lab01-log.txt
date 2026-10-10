@@ -1,0 +1,170 @@
+    1  python3 --version
+    2  ls -a
+    3  ls 
+    4  mkdr Coding Cafe
+    5  mkdir Coding Cafe
+    6  mdir Lab1_Naintaraa
+    7  nkdir Lab1_Naintaraa
+    8  mkdir Lab1_Naintaraa
+    9  touch noted.md
+   10  cd desktop
+   11  cd desktop/
+   12  ls 
+   13  cd lab1_Naintaraa
+   14  cd
+   15  mkdir Coding Cafe
+   16  mkdir "Coding Cafe"
+   17  ls
+   18  cd
+   19  ls
+   20  cd /mnt/c/Users/Naintaraa/OneDrive/Desktop
+   21  rm -rf Cafe Coding 'Coding Cafe'
+   22  cd /mnt/c/Users/Naintaraa/OneDrive/Desktop
+   23  ls
+   24  ls -a
+   25  mkdir Coding Cafe
+   26  ls
+   27  mkdir coding cafe
+   28  cd coding cafe
+   29  clear
+   30  cd coding cafe
+   31  cd Coding Cafe
+   32  mdir Lab1
+   33  mkdir Lab1
+   34  cd Lab1
+   35  ls
+   36  cd lab1
+   37  cd Lab1
+   38  touch notes.md
+   39  ls
+   40  pwd 
+   41  ls
+   42  ls -a
+   43  la -l
+   44  mkdir Coding Cafe
+   45  cd Coding Cafe
+   46  mkdir week01
+   47  mkdir week02
+   48  touch notes.md
+   49  cd notes
+   50  cd notes.md
+   51  ls
+   52  cd week01
+   53  cd week02
+   54  ls
+   55  ckdir week02
+   56  cd week02
+   57  cd
+   58  cd week02
+   59  clear
+   60  pwd
+   61  ls 
+   62  clear
+   63  cd
+   64  pwd
+   65  ls
+   66  ls -a
+   67  ls -l
+   68  mkdir coding cafe
+   69  cd coding cafe
+   70  del cafe
+   71  rem cafe
+   72  clear
+   73  pwd
+   74  cd
+   75  pwd
+   76  ls
+   77  ls -a
+   78  ls -l
+   79  mkdir Coding_Cafe
+   80  cd Coding_Cafe
+   81  mkdir Week01
+   82  mkdir Week02
+   83  cd Week02
+   84  touch notes.md
+   85  cd notes.md
+   86  ls coding-cafe/week02
+   87  ls Coding_Cafe/Week02
+   88  ls Coding_Cafe
+   89  cd
+   90  ls Coding_Cafe/Week02
+   91  cd Week02/notes.md
+   92  pwd
+   93  ls
+   94  ls -a
+   95  ls -l
+   96  cd 
+   97  mkdir coding-cafe
+   98  cd coding-cafe
+   99  mkdir week01
+  100  mkdir week02
+  101  cd week02
+  102  touch notes.md
+  103  cd notes.md
+  104  ls coding-cafe/week02
+  105  cd coding-cafe
+  106  cd
+  107  ls coding-cafe/week02
+  108  ls
+  109  cd /mnt/c/Users/Naintaraa/Desktop
+  110  pwd
+  111  mkdir coding-cafe
+  112  clear
+  113  ls /mnt/c/Users/
+  114  cd /mnt/c/Users/Naintaraa/Desktop
+  115  pwd
+  116  ls
+  117  ls -a
+  118  ls -l
+  119  ls /mnt/c/Users/
+  120  cd /mnt/c/Users/Naintaraa/Desktop
+  121  pwd
+  122  ls /mnt/c/Users/Naintara
+  123  ls /mnt/c/Users/Naintaraa
+  124  cd /mnt/c/Users/Naintaraa/OneDrive/Desktop
+  125  pwd
+  126  cd /mnt/c/Users/Naintaraa/OnceDrive/Desktop
+  127  pwd
+  128  mkdir coding-cafe
+  129  cd coding-cafe
+  130  mkdir week01
+  131  mkdir week02
+  132  cd week02
+  133  touch notes.md
+  134  cd
+  135  ls
+  136  ls -a
+  137  ls -l
+  138  pwd
+  139  ls coding-cafe/week02
+  140  cp README.md README-backup.md
+  141  cd week02
+  142  cd
+  143  cd coding-cafe
+  144  mkdir README.md
+  145  cp README.md README-backup.md
+  146  mv README-backup.md week01/
+  147  ls
+  148  cd /mnt/c/Users/Naintaraa/OneDrive/Desktop
+  149  cd coding-cafe
+  150  touch README.md
+  151  cp README.md README-backup.md
+  152  mv README-backup.md week01/
+  153  cd week01
+  154  mv README-backup.md old-readme.md
+  155  ls
+  156  rem old-readme.md
+  157  rm old-readme.md
+  158  [200~echo $PATH
+  159  which python3
+  160  which pip
+  161  echo $PATH
+  162  which python3
+  163  which pip
+  164  which ls
+  165  p
+  166  pyton3
+  167  cd
+  168  cd ~/coding-cafe
+  169  python3 -m venv .venv
+  170  history > week02/lab01-log.txt
